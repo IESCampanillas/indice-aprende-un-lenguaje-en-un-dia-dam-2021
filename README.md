@@ -6,7 +6,7 @@ Enunciado del ejercicio: <https://github.com/LuisJoseSanchez/aprende-un-lenguaje
 
 * 🤯 Primera fila - C# - https://github.com/AleCueto/aprende-un-lenguaje-en-un-dia
 
-* 🦛 A(D^2) - Python - https://github.com/diegorodrii/aprende-un-lenguaje-en-un-dia/blob/master/README.md
+* 🦛 A(D^2) - Python - https://github.com/diegorodrii/aprende-un-lenguaje-en-un-dia
 
 
 
