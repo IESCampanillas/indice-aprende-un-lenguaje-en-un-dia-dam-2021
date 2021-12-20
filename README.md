@@ -4,7 +4,6 @@
 
 Enunciado del ejercicio: <https://github.com/LuisJoseSanchez/aprende-un-lenguaje-en-un-dia>
 
-* [Nombre del equipo - Lenguaje de programación]()
 * 🤯 Primera fila - C# - https://github.com/AleCueto/aprende-un-lenguaje-en-un-dia/blob/master/README.md
 
 
